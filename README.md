@@ -9,7 +9,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - If you want to practice on your front end skills, front end mentor is a good resource.
 
 ### Screenshot
-[solution screenshot](../images/order-summary-component.png)
+[solution screenshot](./images/order-summary-component.png)
 
 ### Link
 
